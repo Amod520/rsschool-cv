@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Amod520.github.io/rsschool-cv/cvgit
