@@ -1,1 +1,1 @@
-https://Amod520.github.io/rsschool-cv/cvgit
+https://github.com/Amod520/rsschool-cv/blob/gh-pages/cv.md
