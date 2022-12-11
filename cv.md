@@ -1,3 +1,5 @@
+ ![](../images/image.png)
+
 1. # **Igor Safronov**
  * ##  **89996838248** 
  * ## **Dis: Igor Safronov (@Amod520)**
@@ -13,3 +15,5 @@ int multiply(int a, int b)
 6. **I have not**
 7. Incomplete higher education (Baikal State University).
 8. English at level B1
+
+[https://github.com/Amod520/rsschool-cv/blob/a7e5738331e714d75a311763d3c1e0caecda88d5/cv.md#L19](cv.md)
