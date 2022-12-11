@@ -1,4 +1,4 @@
- ![](../images/image.png)
+ ![](/rsschool-cv/Images/image.png)
 
 1. # **Igor Safronov**
  * ##  **89996838248** 
