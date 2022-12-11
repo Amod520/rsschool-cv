@@ -1,4 +1,4 @@
-![Image](https://github.com/Amod520/rsschool-cv/blob/gh-pages/123.png)
+![](https://github.com/Amod520/rsschool-cv/blob/gh-pages/123.png)
 
 1. # **Igor Safronov**
  * ##  **89996838248** 
@@ -16,4 +16,4 @@ int multiply(int a, int b)
 7. Incomplete higher education (Baikal State University).
 8. English at level B1
 
-[cv](https://github.com/Amod520/rsschool-cv/blob/3755cfbac9dab83595c882ca98471c2c62c51eef/cv.md#L3)
+[cv](https://github.com/Amod520/rsschool-cv/blob/3755cfbac9dab83595c882ca98471c2c62c51eef/cv.md#L19)
