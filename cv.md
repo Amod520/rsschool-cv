@@ -1,4 +1,4 @@
-![](https://github.com/Amod520/rsschool-cv/blob/gh-pages/123.png)
+![](C:\Users\Игорь\Desktop\Projects\images\image.png)
 
 1. # **Igor Safronov**
  * ##  **89996838248** 
