@@ -1,8 +1,11 @@
-1. # **Игорь Сафорнов**
-2. ## **89996838248**
-3. Хочу получить протестировать себя в изучении в новой для меня отрасли. До этого дня о программировании знал только паскаль *(и то по школе)*. 
-Работаю на мебельной фабрике инженером-технологом, на которого я так же отучился самостоятельно, методом проб и ошибок. Самопознание и самосовершенствование - это "выбитая" в моей голове истина, которую я несу с собой всю свою жизнь.
-4. **Навыки в этой отралси нулевые** :)
-5. К сожалению из 4-го пункта выходит, что никаких
-
+1. # **Igor Safronov**
+ * ##  **89996838248** 
+ * ## **Instagram: @i_safr**
+3. I want to get to test myself in studying in a new industry for me. Until that day, only Pascal *(at school)* knew about programming.
+I am working at a furniture factory as a process engineer, which I also unlearned on my own, by trial and error. Self-knowledge and self-improvement is the truth "knocked out" in my head, that I carry with me all my life.
+4. **Skills in this industry are zero** :)
+5. 
+6. **I have not**
+7. Incomplete higher education (Baikal State University).
+8. English at level B1
 
