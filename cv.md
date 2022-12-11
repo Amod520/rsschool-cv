@@ -1,4 +1,4 @@
- ![Image](C:\Users\Игорь\Desktop\123.png)
+ ![Image](C:\Users\Игорь\Desktop\Projects\123.png "icon")
 1. # **Igor Safronov**
  * ##  **89996838248** 
  * ## **Instagram: @i_safr**
