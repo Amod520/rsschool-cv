@@ -1,4 +1,4 @@
- ![](/rsschool-cv/Images/image.png)
+ ![](https://github.com/Amod520/rsschool-cv/blob/gh-pages/Images/image.png)
 
 1. # **Igor Safronov**
  * ##  **89996838248** 
