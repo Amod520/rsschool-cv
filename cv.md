@@ -1,4 +1,4 @@
-![](../123.png)
+![image](../123.png "icon")
 
 1. # **Igor Safronov**
  * ##  **89996838248** 
@@ -16,4 +16,4 @@ int multiply(int a, int b)
 7. Incomplete higher education (Baikal State University).
 8. English at level B1
 
-[cv](https://github.com/Amod520/rsschool-cv/blob/a9131c905a06fcab9ea70c39018995037d311a1e/cv.md#L19)
+[cv](https://github.com/Amod520/rsschool-cv/blob/07a80cd2d228c2a11eb93a2e05788ad3e4d248a3/cv.md#L13)
