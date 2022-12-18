@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/Amod520/rsschool-cv/tree/rsschool-cv-html
